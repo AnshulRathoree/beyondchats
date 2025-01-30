@@ -1,6 +1,8 @@
 
 # User Registration & Chatbot Integration - Web Application
 
+[**Live Link**](https://anshulrathoree.github.io/beyondchats/) 
+
 This project covers the complete user registration process, organization setup, and chatbot integration, along with a user interface to manage the setup flow. It includes features such as email verification, scraping a company’s website for chatbot training, and integration of a dummy chatbot on the user’s website.
 
 ## Features
